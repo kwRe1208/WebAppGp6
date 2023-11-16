@@ -14,13 +14,13 @@ import Loader from "../layout/Loader/Loader";
 //import Product from "./Product.js"
 import Header from "../layout/Header/Header.js";
 
-const product ={
-    name: "",
-    images: [{url: ""}],
-    price:"",
-    _id:"",
+// const product ={
+//     name: "",
+//     images: [{url: ""}],
+//     price:"",
+//     _id:"",
 
-};
+// };
 
 const Home = () => {
     //related to react-alert-es6.
