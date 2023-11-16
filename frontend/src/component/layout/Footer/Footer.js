@@ -18,8 +18,8 @@ const Footer = () =>{
             </div>
             <div className="rightFooter">
                 <h4>Follow us</h4>
-                <a>Instagram</a>
-                <a>Facebook</a>
+                <a href="#">Instagram</a>
+                <a href="#">Facebook</a>
             </div>
 
 

@@ -16,7 +16,7 @@ import Header from "../layout/Header/Header.js";
 
 const product ={
     name: "",
-    images: [{url: ""}],
+    /*images: [{url: ""}],*/
     price:"",
     _id:"",
 
