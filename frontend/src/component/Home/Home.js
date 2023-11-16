@@ -20,7 +20,7 @@ const product ={
     price:"",
     _id:"",
 
-};
+ };
 
 const Home = () => {
     //related to react-alert-es6.
